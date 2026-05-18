@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/demo-aspire-2-main/Payment/Payment.Application/obj/Debug/net10.0
+/demo-aspire-2-main/Payment/Payment.Application/obj
+/demo-aspire-2-main/Payment/Payment.API/obj/Debug/net10.0
+/demo-aspire-2-main/Payment/Payment.API/obj
+/demo-aspire-2-main/Payment/Payment.Domain/obj/Debug/net10.0
+/demo-aspire-2-main/Payment/Payment.Domain/obj
+/demo-aspire-2-main/Payment/Payment.Infrastructure/obj/Debug/net10.0
+/demo-aspire-2-main/Payment/Payment.Infrastructure/obj
+/demo-aspire-2-main/Payment/Payment.API/bin/Debug/net10.0
+/demo-aspire-2-main/Payment/Payment.Application/bin/Debug/net10.0
+/demo-aspire-2-main/Payment/Payment.Domain/bin/Debug/net10.0
+/demo-aspire-2-main/Payment/Payment.Infrastructure/bin/Debug/net10.0
