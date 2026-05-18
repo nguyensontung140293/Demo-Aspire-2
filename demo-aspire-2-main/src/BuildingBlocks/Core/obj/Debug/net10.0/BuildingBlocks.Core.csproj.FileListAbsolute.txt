@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\bin\Debug\net10.0\BuildingBlocks.Core.deps.json
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\bin\Debug\net10.0\BuildingBlocks.Core.dll
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\bin\Debug\net10.0\BuildingBlocks.Core.pdb
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\bin\Debug\net10.0\BuildingBlocks.Abstractions.dll
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\bin\Debug\net10.0\BuildingBlocks.Abstractions.pdb
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\obj\Debug\net10.0\BuildingBlocks.Core.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\obj\Debug\net10.0\BuildingBlocks.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\obj\Debug\net10.0\BuildingBlocks.Core.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\obj\Debug\net10.0\BuildingBlocks.Core.AssemblyInfo.cs
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\obj\Debug\net10.0\BuildingBlocks.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\obj\Debug\net10.0\BuildingBlocks.Core.sourcelink.json
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\obj\Debug\net10.0\Building.3AF26447.Up2Date
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\obj\Debug\net10.0\BuildingBlocks.Core.dll
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\obj\Debug\net10.0\refint\BuildingBlocks.Core.dll
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\obj\Debug\net10.0\BuildingBlocks.Core.pdb
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Core\obj\Debug\net10.0\ref\BuildingBlocks.Core.dll

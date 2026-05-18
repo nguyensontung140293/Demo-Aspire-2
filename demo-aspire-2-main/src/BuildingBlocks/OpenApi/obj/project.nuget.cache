@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s68VIOVjur8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Demo-Aspire-2\\demo-aspire-2-main\\src\\BuildingBlocks\\OpenApi\\BuildingBlocks.OpenApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\scalar.aspnetcore\\2.14.0\\scalar.aspnetcore.2.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

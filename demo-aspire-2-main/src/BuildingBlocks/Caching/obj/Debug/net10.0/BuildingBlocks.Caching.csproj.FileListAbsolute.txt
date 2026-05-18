@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Caching\bin\Debug\net10.0\BuildingBlocks.Caching.deps.json
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Caching\bin\Debug\net10.0\BuildingBlocks.Caching.dll
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Caching\bin\Debug\net10.0\BuildingBlocks.Caching.pdb
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Caching\obj\Debug\net10.0\BuildingBlocks.Caching.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Caching\obj\Debug\net10.0\BuildingBlocks.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Caching\obj\Debug\net10.0\BuildingBlocks.Caching.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Caching\obj\Debug\net10.0\BuildingBlocks.Caching.AssemblyInfo.cs
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Caching\obj\Debug\net10.0\BuildingBlocks.Caching.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Caching\obj\Debug\net10.0\BuildingBlocks.Caching.sourcelink.json
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Caching\obj\Debug\net10.0\BuildingBlocks.Caching.dll
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Caching\obj\Debug\net10.0\refint\BuildingBlocks.Caching.dll
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Caching\obj\Debug\net10.0\BuildingBlocks.Caching.pdb
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\Caching\obj\Debug\net10.0\ref\BuildingBlocks.Caching.dll

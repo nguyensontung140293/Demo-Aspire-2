@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\OpenApi\bin\Debug\net10.0\BuildingBlocks.OpenApi.deps.json
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\OpenApi\bin\Debug\net10.0\BuildingBlocks.OpenApi.dll
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\OpenApi\bin\Debug\net10.0\BuildingBlocks.OpenApi.pdb
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\OpenApi\obj\Debug\net10.0\BuildingBlocks.OpenApi.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\OpenApi\obj\Debug\net10.0\BuildingBlocks.OpenApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\OpenApi\obj\Debug\net10.0\BuildingBlocks.OpenApi.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\OpenApi\obj\Debug\net10.0\BuildingBlocks.OpenApi.AssemblyInfo.cs
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\OpenApi\obj\Debug\net10.0\BuildingBlocks.OpenApi.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\OpenApi\obj\Debug\net10.0\BuildingBlocks.OpenApi.sourcelink.json
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\OpenApi\obj\Debug\net10.0\BuildingBlocks.OpenApi.dll
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\OpenApi\obj\Debug\net10.0\refint\BuildingBlocks.OpenApi.dll
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\OpenApi\obj\Debug\net10.0\BuildingBlocks.OpenApi.pdb
+C:\Users\admin\source\repos\Demo-Aspire-2\demo-aspire-2-main\src\BuildingBlocks\OpenApi\obj\Debug\net10.0\ref\BuildingBlocks.OpenApi.dll
