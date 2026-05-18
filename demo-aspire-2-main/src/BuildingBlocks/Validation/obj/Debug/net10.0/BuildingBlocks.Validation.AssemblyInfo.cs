@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuildingBlocks.Validation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6dfa7e075e048c0900c6b707376f541312a4ce6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97796c74899ce68cdf27b94248f65f4b66026ef0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuildingBlocks.Validation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuildingBlocks.Validation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
